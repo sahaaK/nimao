@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "646025945964",
+    "project_id": "sbi-auth-cb8bf",
+    "storage_bucket": "sbi-auth-cb8bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646025945964:android:7be9f2bb4caa7b3f070949",
+        "android_client_info": {
+          "package_name": "com.example.sbi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDlaCXhGUZ-BuYC9Ljvco2r1V6hNH9BKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
